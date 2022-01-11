@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<list_of_skills>
+<skill id="1"><first/>postman</skill>
+<skill id="2"><second>SQL</skill>
+<skill id="3"><third>theory</skill>
+<skill id="4"><last/>API</skill>
+</list_of_skills>
