@@ -1,0 +1,16 @@
+<?xml version="1.0">
+<bug_report>
+<ID>1</ID>
+<summary>Product description does not open on the product page</summary>
+  <description>
+    <steps_to_reproduce>
+      <first_step>Select a product</first_step>
+      <second_step>Go to product page</second_step>
+        <third_step>Open product discription></third_step>
+  </desccription>
+ <expected_result>Discription is open</expected_result>
+ <actual_result>Discripton will not open</actual_result>
+ <priority>High</priority>
+ <severity>Major</severity>
+ <environment>Widows 10,Google Chrome version 96.0.4664.45</environment>
+</bug_report>
